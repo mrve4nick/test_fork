@@ -1,7 +1,5 @@
 <?php
 
-namespace Framework\core;
-
 class ErrorHandler
 {
     public static function logMyErrors($str)

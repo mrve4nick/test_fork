@@ -1,9 +1,5 @@
 <?php
 
-namespace Framework\core;
-
-use Framework\core\ErrorHandler;
-
 class ExceptionHandler extends \Exception
 {
     public function exceptionLog()
