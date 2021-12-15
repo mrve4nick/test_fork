@@ -1,4 +1,5 @@
 <?php
+namespace ve4nick\logger;
 
 class ErrorHandler
 {

@@ -1,4 +1,7 @@
 <?php
+namespace ve4nick\logger;
+
+use ve4nick\logger\ErrorHandler;
 
 class ExceptionHandler extends \Exception
 {
