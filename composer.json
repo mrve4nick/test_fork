@@ -5,5 +5,10 @@
       "name": "mrve4nick",
       "email": "ve4nick98@gmail.com"
     }
-  ]
+  ],
+  "autoload": {
+      "psr-4": {
+          "ve4nick\\logger\\": "/";
+      }
+  }
 }
